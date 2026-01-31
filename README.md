@@ -12,7 +12,7 @@ My name is **BangGarem**, but you can call me **Garem**.
 ---
 
 ## 🚀 Featured Projects
-- [Minecraft Skin Viewer](https://github.com/BangGarem/mc-skin-viewer)
+- [Minecraft Skin Viewer](https://github.com/BangGarem/mc-skin-3d)
 
 Check out my repositories for more projects!
 

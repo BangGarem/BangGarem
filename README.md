@@ -27,3 +27,5 @@ Check out my repositories for more projects!
 ## 🎯 Fun Facts
 - Gaming & anime fan 🎮📺  
 - Always learning
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BangGarem&layout=compact&theme=dracula&hide_border=true)
